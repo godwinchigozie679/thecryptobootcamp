@@ -1,0 +1,109 @@
+
+body {
+    background-color: white !important;
+    font-family: sans-serif !important;
+    color: black !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.6em !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    
+
+}
+
+#header {
+    background-color: rgb(19, 16, 16) !important;
+}
+
+#header img {
+    height: 8vw;
+}
+p{
+    font-size: 0.8 em !important;
+    font-weight: lighter !important;
+    color: rgb(55, 47, 2) !important;
+}
+
+
+.fa-user-graduate{   
+    font-size: 5em;
+}
+/*LOGO*/
+#header-logo {
+    background-image: url();
+}
+/*Social Media Editing*/
+header {
+    font-size: 2.1rem;
+        
+}
+#social-facebook:hover {
+    color: rgb(36, 29, 240) !important;
+}
+#social-whatsapp:hover {
+    color: rgb(27, 243, 27) !important;
+}
+#social-telegram:hover {
+    color: rgb(23, 15, 240) !important;
+}
+#social-twitter:hover {
+    color: rgb(48, 179, 240) !important;
+}
+#social-instagram:hover {
+    color: rgb(226, 33, 162) !important;
+}
+
+/*NAVIGATION BAR*/
+
+.showcase-image{
+    background-image: url(../Images/bgbody.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+} 
+
+.showcase-text h4{
+    color: rgb(53, 46, 4) !important;
+}
+
+
+#showcase-btn button{
+    
+    background-color: rgb(119, 118, 112) !important;
+}
+
+#showcase-btn button:hover{
+    
+    background-color: rgb(24, 67, 255) !important;
+}
+
+#prefooter{
+    height: 600px !important;
+    background-color: black !important;
+    
+}
+
+#footer{
+
+    height: 100px !important;
+    
+}
+
+#footer .social-edit-footer{
+
+    font-size: 1.6rem !important;
+    
+}
+
+#pre-footer-title{
+background-color: rgb(43, 36, 2) !important;
+
+}
+
+/*FEARES*/
+#features .edit-features{
+    font-size: 13px !important;
+    
+}
